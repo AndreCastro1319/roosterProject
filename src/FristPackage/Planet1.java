@@ -6,5 +6,8 @@ public class Planet1 {
     int mass;
     String color;
     double radius;
-    
+
+    String location;
+    int distance;
+    int speed;
 }
