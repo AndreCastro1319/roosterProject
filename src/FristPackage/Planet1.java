@@ -7,8 +7,14 @@ public class Planet1 {
     String color;
     double radius;
 
+
     int diameter;
     double area;
     String width;
+
+
+    String location;
+    int distance;
+    int speed;
 
 }
