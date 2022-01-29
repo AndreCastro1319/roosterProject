@@ -6,5 +6,9 @@ public class Planet1 {
     int mass;
     String color;
     double radius;
-    
+
+    int diameter;
+    double area;
+    String width;
+
 }
